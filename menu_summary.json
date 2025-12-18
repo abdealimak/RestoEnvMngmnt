@@ -1,0 +1,30 @@
+{
+    "Coffee": {
+        "orders": 90,
+        "revenue": 5400.0
+    },
+    "Fries": {
+        "orders": 60,
+        "revenue": 4800.0
+    },
+    "Burger": {
+        "orders": 50,
+        "revenue": 6000.0
+    },
+    "Pizza": {
+        "orders": 40,
+        "revenue": 10000.0
+    },
+    "Pasta": {
+        "orders": 30,
+        "revenue": 6000.0
+    },
+    "fish": {
+        "orders": 30,
+        "revenue": 15000.0
+    },
+    "donut": {
+        "orders": 15,
+        "revenue": 1500.0
+    }
+}
